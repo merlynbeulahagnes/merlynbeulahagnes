@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## KARMA FOR HUMANS
+ Any business that doesn’t make an investment in machine learning in 2017 will fall behind their competition.
 
-You can use the [editor on GitHub](https://github.com/merlynbeulahagnes/merlynbeulahagnes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+When data volume swells beyond a human’s ability to discern the patterns in it—when a company is faced with truly big data—we need a new form of intelligence. GIS, infused with artificial intelligence, can help executives make better decisions.
+“We must address, individually and collectively, moral and ethical issues raised by cutting-edge research in artificial intelligence and biotechnology, which will enable significant life extension, designer babies, and memory extraction.”
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Merlyn Beulah Agnes Godwin
+Ready to hire Machine Learning Researcher with carzy interest in Deep Learning , Neural Network.
+My Upcoming projects include Treating Parkinson Disease, Replacing neurosurgeons with robots, Robotic Advisors for handling hanging economy.
 
 - Bulleted
 - List
